@@ -1,0 +1,62 @@
+AMD Ryzen 3 1200 Wraith Stealth Edition (3,1 GHz)
+4 coeurs, 3,10 GHz, 10 Mo, AMD Ryzen, 65 Watts
+assets/image/AMD/AMD Ryzen 3 1200.png
+
+
+AMD Ryzen 3 2200G (3,5 GHz)
+4 coeurs, 3,50 GHz, 6 Mo, AMD Ryzen, 65 Watts
+assets/image/AMD/AMD Ryzen 3 2200G.png
+
+
+AMD Ryzen 3 1300X Wraith Stealth Edition (3,5 GHz)
+4 coeurs, 3,50 GHz, 10 Mo, AMD Ryzen, 65 Watts
+assets/image/AMD/AMD Ryzen 3 1300X.png
+
+
+AMD Ryzen 5 1400 Wraith Stealth Edition (3,2 GHz)
+4 coeurs, 3,20 GHz, 10 Mo, AMD Ryzen, 65 Watts
+assets/image/AMD/AMD Ryzen 5 1400.png
+
+
+AMD Ryzen 5 1600X (3,6 GHz)
+6 coeurs, 3,60 GHz, 19 Mo, AMD Ryzen, 95 Watts
+assets/image/AMD/AMD Ryzen 5 1600X.png
+
+
+AMD Ryzen 5 2400G (3,6 GHz)
+4 coeurs, 3,60 GHz, 6 Mo, AMD Ryzen, 65 Watts
+assets/image/AMD/AMD Ryzen 5 2400G.png
+
+
+AMD Ryzen 7 1800X (3,6 GHz)
+8 coeurs, 3,60 GHz, 20 Mo, AMD Ryzen, 95 Watts
+assets/image/AMD/AMD Ryzen 7 1800X.png
+
+
+AMD Ryzen 7 2700 MAX
+8 coeurs, 3,20 GHz, 20 Mo, AMD Ryzen, 65 Watts
+assets/image/AMD/AMD Ryzen 7 2700 MAX.png
+
+
+AMD Ryzen 7 2700 Wraith Spire LED Edition (3,2 GHz)
+8 coeurs, 3,20 GHz, 20 Mo, AMD Ryzen, 65 Watts
+assets/image/AMD/AMD Ryzen 7 2700.png
+
+
+AMD Ryzen Threadripper 1900X (3,8 GHz)
+8 coeurs, 3,80 GHz, 20 Mo, Ryzen Threadripper, 180 Watts
+assets/image/AMD/AMD Ryzen 9 1900X.png
+
+
+AMD Ryzen Threadripper 1950X (3,4 GHz)
+16 coeurs, 3,40 GHz, 40 Mo, Ryzen Threadripper, 180 Watts
+assets/image/AMD/AMD Ryzen 9 1950X.png
+
+
+AMD Ryzen Threadripper 2920X (3,5 GHz)
+12 coeurs, 3,5 GHz, 32 Mo, Ryzen Threadripper, 180 Watts
+assets/image/AMD/AMD Ryzen 9 2920X.png
+
+
+
+

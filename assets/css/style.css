@@ -1,0 +1,10 @@
+/* NOTE: Début CSS Nora - Mise en forme du carousel */
+.carousel{
+  background-color: rgba(236,240,241,1.0);
+}
+
+.carousel-caption{
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+/* NOTE: Fin du CSS Nora */
